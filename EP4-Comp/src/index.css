@@ -57,3 +57,11 @@ footer {
   display: grid;
   place-content: center;
 }
+
+section {
+  border: 1px solid;
+  width: 50%;
+  height: 100px;
+  margin: auto;
+  text-align: center;
+}
